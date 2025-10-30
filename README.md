@@ -93,75 +93,6 @@ local Developer = {
 
 ---
 
-## 🎨 重点项目
-
-<div align="center">
-
-<a href="https://github.com/xiaomao8090/opai_ui">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xiaomao8090&repo=opai_ui&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-### 🏝️ [OPAI Dynamic Island](https://github.com/xiaomao8090/opai_ui) ![Stars](https://img.shields.io/github/stars/xiaomao8090/opai_ui?style=social)
-
-> 🎨 仿 iPhone 灵动岛的 Roblox UI 组件库 - 精品开源项目
-
-**核心特性：**
-- ✨ 精美的灵动岛UI设计
-- 📱 PC/移动端自适应
-- 🔔 智能通知队列系统
-- 🎯 3行代码即可集成
-- 🎨 完全自定义外观
-
-```lua
--- 快速开始
-loadstring(game:HttpGet("https://raw.githubusercontent.com/xiaomao8090/opai_ui/main/Library/DynamicIsland_Library.lua"))()
-local island = _G.DynamicIslandLib.new()
-island:Notify({title = "欢迎", content = "已加载", type = "success"})
-```
-
-**项目状态**: 🟢 活跃维护中 | **文档**: [完整文档](https://github.com/xiaomao8090/opai_ui/blob/main/Docs/灵动岛组件库使用说明.md)
-
----
-
-### 📂 其他项目
-
-<details>
-<summary><b>🔍 点击查看更多项目（已归档/实验性）</b></summary>
-
-<br>
-
-> 💡 **提示**: 我专注于打造精品项目，其他项目多为学习和实验性质
-
-**🎮 Roblox 相关:**
-- 其他 Roblox 工具和脚本（正在整理中...）
-
-**🛠️ 工具集:**
-- Python 自动化工具
-- 实用小工具
-
-**📚 学习项目:**
-- 各种技术学习项目（已归档）
-
-</details>
-
----
-
-<div align="center">
-
-## 💡 最近活动
-
-</div>
-
-<!--START_SECTION:activity-->
-1. 🎉 发布了 [OPAI Dynamic Island v1.0](https://github.com/xiaomao8090/opai_ui)
-2. 📝 更新了项目文档
-3. ✨ 添加了新功能
-<!--END_SECTION:activity-->
-
----
-
 <div align="center">
 
 ## 📫 联系我
@@ -177,20 +108,6 @@ island:Notify({title = "欢迎", content = "已加载", type = "success"})
 ### 💭 每日一言
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 2025 年目标
-
-- [x] ✅ 发布 OPAI Dynamic Island v1.0
-- [ ] 📚 深入学习 Roblox 开发技巧
-- [ ] 🎨 创建更多开源 UI 组件
-- [ ] 🤝 参与优秀开源项目
-- [ ] 💻 优化代码质量和性能
 
 </div>
 
@@ -214,20 +131,6 @@ island:Notify({title = "欢迎", content = "已加载", type = "success"})
 
 <div align="center">
 
-### 🌟 支持我的工作
-
-如果你喜欢我的项目，请给个 ⭐ Star！
-
-<a href="https://github.com/xiaomao8090/opai_ui">
-  <img src="https://img.shields.io/github/stars/xiaomao8090/opai_ui?style=social" alt="Stars">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 **感谢访问我的主页！** 👋
@@ -235,4 +138,3 @@ island:Notify({title = "欢迎", content = "已加载", type = "success"})
 <sub>最后更新: 自动更新 📅</sub>
 
 </div>
-
