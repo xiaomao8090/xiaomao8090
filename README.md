@@ -184,84 +184,13 @@ island:Notify({title = "欢迎", content = "已加载", type = "success"})
 
 <div align="center">
 
-### 🎵 现在正在听
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
-
-<!-- 如果不用Spotify，可以删除这部分 -->
-
-</div>
-
----
-
-<div align="center">
-
-### 📊 本周编码时间
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 贡献蛇蛇
-
-![](https://raw.githubusercontent.com/xiaomao8090/xiaomao8090/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ 趣味数据
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=xiaomao8090&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-## 💼 工作流程
-
-```mermaid
-graph LR
-    A[💡 创意] --> B[📝 设计]
-    B --> C[💻 开发]
-    C --> D[🧪 测试]
-    D --> E[🚀 发布]
-    E --> F[📊 反馈]
-    F --> A
-```
-
-</div>
-
----
-
-<div align="center">
-
 ### 🎯 2025 年目标
 
 - [x] ✅ 发布 OPAI Dynamic Island v1.0
-- [ ] 📚 学习更多 Roblox 开发技巧
+- [ ] 📚 深入学习 Roblox 开发技巧
 - [ ] 🎨 创建更多开源 UI 组件
-- [ ] 🤝 参与更多开源项目
-- [ ] 📝 写技术博客分享经验
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 GitHub 活跃度
-
-![Metrics](https://metrics.lecoq.io/xiaomao8090?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai)
+- [ ] 🤝 参与优秀开源项目
+- [ ] 💻 优化代码质量和性能
 
 </div>
 
