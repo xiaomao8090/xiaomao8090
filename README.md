@@ -15,6 +15,7 @@
 ```lua
 local Developer = {
     name = "xiaomao8090",
+    location = "🇰🇿 哈萨克斯坦",
     role = "Roblox 开发者",
     languages = {"Lua", "Python", "JavaScript"},
     focus = "UI/UX 设计 & 游戏脚本开发",
@@ -27,7 +28,7 @@ local Developer = {
         return {
             "🎮 Roblox 脚本开发",
             "🎨 UI/UX 设计",
-            "🔧 开源项目",
+            "🔧 开源工具开发",
             "💡 创意编程"
         }
     end
@@ -92,7 +93,7 @@ local Developer = {
 
 ---
 
-## 🎨 精选项目
+## 🎨 重点项目
 
 <div align="center">
 
@@ -102,20 +103,48 @@ local Developer = {
 
 </div>
 
-### 🏝️ [OPAI Dynamic Island](https://github.com/xiaomao8090/opai_ui)
+### 🏝️ [OPAI Dynamic Island](https://github.com/xiaomao8090/opai_ui) ![Stars](https://img.shields.io/github/stars/xiaomao8090/opai_ui?style=social)
 
-> 🎨 仿 iPhone 灵动岛的 Roblox UI 组件库
+> 🎨 仿 iPhone 灵动岛的 Roblox UI 组件库 - 精品开源项目
 
-**特性：**
-- ✨ 精美的灵动岛设计
-- 📱 自适应响应式布局
+**核心特性：**
+- ✨ 精美的灵动岛UI设计
+- 📱 PC/移动端自适应
 - 🔔 智能通知队列系统
-- 🎯 简单易用的 API
+- 🎯 3行代码即可集成
+- 🎨 完全自定义外观
 
 ```lua
--- 一行代码即可使用
+-- 快速开始
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xiaomao8090/opai_ui/main/Library/DynamicIsland_Library.lua"))()
+local island = _G.DynamicIslandLib.new()
+island:Notify({title = "欢迎", content = "已加载", type = "success"})
 ```
+
+**项目状态**: 🟢 活跃维护中 | **文档**: [完整文档](https://github.com/xiaomao8090/opai_ui/blob/main/Docs/灵动岛组件库使用说明.md)
+
+---
+
+### 📂 其他项目
+
+<details>
+<summary><b>🔍 点击查看更多项目（已归档/实验性）</b></summary>
+
+<br>
+
+> 💡 **提示**: 我专注于打造精品项目，其他项目多为学习和实验性质
+
+**🎮 Roblox 相关:**
+- 其他 Roblox 工具和脚本（正在整理中...）
+
+**🛠️ 工具集:**
+- Python 自动化工具
+- 实用小工具
+
+**📚 学习项目:**
+- 各种技术学习项目（已归档）
+
+</details>
 
 ---
 
