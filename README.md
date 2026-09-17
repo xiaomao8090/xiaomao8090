@@ -4,7 +4,7 @@
 
 ### Full Stack Engineer
 
-Building web applications, backend services and developer tools.
+Web applications · Backend systems · Open source · Developer tools
 
 <p>
   <a href="https://github.com/xiaomao8090">
@@ -23,11 +23,16 @@ Building web applications, backend services and developer tools.
 const xiaomao = {
   role: "Full Stack Engineer",
 
+  languages: [
+    "TypeScript",
+    "JavaScript",
+    "Java",
+    "Python"
+  ],
+
   frontend: [
     "React",
     "Vue",
-    "TypeScript",
-    "JavaScript",
     "Tailwind CSS"
   ],
 
@@ -50,10 +55,11 @@ const xiaomao = {
     "Git"
   ],
 
-  currentlyBuilding: [
-    "Web Applications",
-    "Backend Services",
-    "Developer Tools"
+  other: [
+    "Gradle",
+    "Fabric",
+    "NeoForge",
+    "Minecraft Modding"
   ]
 };
 ```
@@ -65,7 +71,7 @@ const xiaomao = {
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,python,html,css" />
 </p>
 
 ### Frontend
@@ -86,24 +92,25 @@ const xiaomao = {
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 </p>
 
-### DevOps & Infrastructure
+### Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,nginx,git,github" />
 </p>
 
-### Tools
+### Tooling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,powershell,npm" />
+  <img src="https://skillicons.dev/icons?i=gradle,vscode,postman,powershell,npm" />
 </p>
 
 ---
 
-## Stack
+## Technologies
 
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=3776AB)
 
 ![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react\&logoColor=61DAFB)
@@ -117,166 +124,7 @@ const xiaomao = {
 ![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
 ![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge\&logo=sqlite\&logoColor=003B57)
 
+![Gradle](https://img.shields.io/badge/Gradle-111111?style=for-the-badge\&logo=gradle\&logoColor=23A455)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge\&logo=linux\&logoColor=FCC624)
 ![Nginx](https://img.shields.io/badge/Nginx-111111?style=for-the-badge\&logo=nginx\&logoColor=009639)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge\&logo=github\&logoColor=FFFFFF)
-
----
-
-## Selected Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### Kazay
-
-Full-stack web platform and development studio project.
-
-**Stack**
-
-`Node.js` `Express` `SQLite` `Nginx`
-
-[Repository](https://github.com/xiaomao8090/kazay-website)
-
-</td>
-
-<td width="50%">
-
-### mier.live
-
-Personal web project focused on interactive experiences and records.
-
-**Stack**
-
-`JavaScript` `Node.js` `Web`
-
-[Website](https://mier.live)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Community Platform
-
-Community platform with posts, comments, circles, notifications and moderation.
-
-**Stack**
-
-`Vue` `Vuex` `Express` `SQLite`
-
-</td>
-
-<td width="50%">
-
-### Developer Tools
-
-Small tools, experiments and utilities for web development and automation.
-
-**Stack**
-
-`Python` `Node.js` `JavaScript`
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=xiaomao8090&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaomao8090&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
-
-</div>
-
----
-
-## Contribution
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=xiaomao8090&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## Development Environment
-
-```text
-OS        Windows 11 / macOS / Linux
-Editor    Visual Studio Code
-Runtime   Node.js / Python
-Server    Linux / Nginx / PM2
-Database  MongoDB / MySQL / SQLite
-Version   Git / GitHub
-```
-
----
-
-## What I Work On
-
-```text
-frontend/
-├── React
-├── Vue
-├── TypeScript
-└── Tailwind CSS
-
-backend/
-├── Node.js
-├── Express
-├── REST API
-└── Authentication
-
-database/
-├── MongoDB
-├── MySQL
-└── SQLite
-
-infrastructure/
-├── Linux
-├── Nginx
-├── PM2
-└── Git
-```
-
----
-
-## Activity
-
-```text
-Building       Full-stack applications
-Learning       System design & backend architecture
-Exploring      Developer tooling
-Maintaining    Personal projects
-```
-
----
-
-## Contact
-
-<p>
-  <a href="https://github.com/xiaomao8090">
-    <img src="https://img.shields.io/badge/GitHub-xiaomao8090-111111?style=for-the-badge&logo=github">
-  </a>
-
-  <a href="https://kazay.club">
-    <img src="https://img.shields.io/badge/Website-kazay.club-111111?style=for-the-badge&logo=googlechrome">
-  </a>
-</p>
-
----
-
-<div align="center">
-
-<sub>Code. Build. Ship.</sub>
-
-</div>
+![Git](https://img.shields.io/badge/Git-111111?styl)
