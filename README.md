@@ -24,3 +24,7 @@ I design, build and run web products end to end — interface, API, data model a
 ### Stack
 
 <img src="https://skillicons.dev/icons?i=ts,js,java,python,react,vue,tailwind,nodejs,express,mongodb,mysql,sqlite,linux,nginx,git,gradle&perline=16" alt="Tech stack" />
+
+### Contact
+
+[xiaomao8090@gmail.com](mailto:xiaomao8090@gmail.com)
